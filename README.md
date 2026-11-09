@@ -1,13 +1,36 @@
-<h1 align="center">Hi 👋, I'm LousyDire</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lousydire" alt="lousydire" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,100:FF9F0A&height=190&section=header&text=LousyDire&fontSize=58&fontColor=FFFFFF&fontAlignY=34&desc=iOS%20Developer&descSize=20&descAlignY=54&animation=fadeIn" width="100%" alt="LousyDire — iOS Developer" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=F05138&center=true&vCenter=true&width=520&lines=Building+native+apps+for+Apple+platforms;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Smooth+120+Hz+interfaces" alt="Swift • SwiftUI • UIKit" />
+
+</div>
+
+## About
+
+- 📱 Native apps for **iPhone, iPad and Mac**
+- 🧩 **UIKit** and **SwiftUI**: custom components, gestures, animations
+- ⚡ Smooth 120 Hz scrolling and performance profiling with Instruments
+- 🎨 Pixel-perfect UI straight from Figma
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-1C1C1E?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-1C1C1E?style=for-the-badge&logo=swift&logoColor=0A84FF" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/UIKit-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" />
+  <img src="https://img.shields.io/badge/Swift%20Concurrency-1C1C1E?style=for-the-badge&logo=swift&logoColor=FF9F0A" alt="Swift Concurrency" />
+  <img src="https://img.shields.io/badge/Core%20Animation-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" alt="Core Animation" />
+  <img src="https://img.shields.io/badge/AVFoundation-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" alt="AVFoundation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://img.shields.io/badge/Xcode-1C1C1E?style=for-the-badge&logo=xcode&logoColor=147EFB" alt="Xcode" />
+  <img src="https://img.shields.io/badge/Instruments-1C1C1E?style=for-the-badge&logo=xcode&logoColor=white" alt="Instruments" />
+  <img src="https://img.shields.io/badge/Swift%20Package%20Manager-1C1C1E?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift Package Manager" />
+  <img src="https://img.shields.io/badge/Figma-1C1C1E?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-1C1C1E?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Sentry-1C1C1E?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lousydire&show_icons=true&locale=en&layout=compact" alt="lousydire" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9F0A,100:F05138&height=110&section=footer" width="100%" alt="" />
